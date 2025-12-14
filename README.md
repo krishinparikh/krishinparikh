@@ -1,6 +1,6 @@
-# Hey, I'm Krishin 👋
+# 👋 Hey, I'm Krishin
 
-Entrepreneurial builder who enjoys solving real-world problems with software.
+Entrepreneurial builder obsessed with solving real-world problems.
 
 ## 🚀 What I've Built
 
