@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey, I'm Krishin 👋
 
-<!--
-**krishinparikh/krishinparikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Entrepreneurial builder who enjoys solving real-world problems with software.
 
-Here are some ideas to get you started:
+## 🚀 What I've Built
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Curio** *(in progress)*  
+AI platform that generates personalized educational courses on any topic in seconds.
+
+**Agentic CRM for Investment Firm**  
+Streamlined internal deal flow and fundraising processes for The O.H.I.O. Fund.
+
+**Afference SDK**  
+Developed SDK translating digital interactions into stimulation parameters for haptic wearables.
+
+**Newsletter Connection Bot**  
+Email bot that extracts and surfaces relevant people to connect with from newsletters.
+
+## 🛠️ Tech Stack
+
+**Languages:** TypeScript • Python • C# • Java • JavaScript
+
+**Frameworks:** Next.js • React • FastAPI • Flask • Prisma
+
+**Cloud & Databases:** AWS • Vercel • PostgreSQL • Firebase
+
+
+## 🤝 Let's Connect
+
+Reach me and learn more on my [LinkedIn](https://www.linkedin.com/in/krishin-parikh/) and [website](https://krishinparikh.com).
