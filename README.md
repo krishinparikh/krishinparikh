@@ -13,7 +13,7 @@ Streamlined internal deal flow and fundraising processes for The O.H.I.O. Fund.
 **Afference SDK**  
 Developed SDK translating digital interactions into stimulation parameters for haptic wearables.
 
-**Newsletter Connection Bot**  
+**Fortuity**  
 Email bot that extracts and surfaces relevant people to connect with from newsletters.
 
 ## 🛠️ Tech Stack
