@@ -1,6 +1,9 @@
-# 👋 Hey, I'm Krishin
+# 👋 Krishin Parikh
 
-Entrepreneurial builder obsessed with solving real-world problems.
+Entrepreneurial builder obsessed with solving real-world problems through software.
+
+## 🧠 Specialties
+Applied AI Engineering (LLMs, Agents, RAG) • Full-Stack Development • Human-Computer Interaction • UI/UX Design 
 
 ## 🚀 What I've Built
 
@@ -13,16 +16,19 @@ Streamlined internal deal flow and fundraising processes for The O.H.I.O. Fund.
 **Afference SDK**  
 Developed SDK translating digital interactions into stimulation parameters for haptic wearables.
 
-**Fortuity**  
-Email bot that extracts and surfaces relevant people to connect with from newsletters.
+**AI Persona for Consultant**  
+An intelligent AI chatbot web application that emulates the authentic voice and expertise of a productivity consultant.
+
+**Various AI Automations**  
+Mailman (retrieves, summarizes, and analyzes podcasts in Notion) and Fortuity (email bot that extracts prospective connections from newsletters).
 
 ## 🛠️ Tech Stack
 
 **Languages:** TypeScript • Python • C# • Java • JavaScript
 
-**Frameworks:** Next.js • React • FastAPI • Flask • Prisma
+**Frameworks:** LangChain • Next.js • React • FastAPI • Flask • Prisma
 
-**Cloud & Databases:** AWS • Vercel • PostgreSQL • Firebase
+**Cloud & Databases:** AWS • Vercel • PostgreSQL • Pinecone • Firebase
 
 
 ## 🤝 Let's Connect
