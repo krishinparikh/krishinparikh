@@ -1,13 +1,16 @@
 # 👋 Krishin Parikh
 
-Entrepreneurial technology leader obsessed with building impactful software experiences.
+Incoming Member of Technical Staff @ [Red Cell Partners](https://www.redcellpartners.com/).
 
 ## 🧠 Specialties
 Applied AI Engineering (LLMs, Agents, RAG) • Full-Stack Development • Human-Computer Interaction • UI/UX Design 
 
 ## 🚀 What I've Built
 
-**Curio** *(in progress)*  
+**Lineage**
+Helps older adults turn their life stories into narrated, cinematic videos.
+
+**Curio** 
 AI platform that generates personalized educational courses on any topic in seconds.
 
 **Agentic CRM for Investment Firm**  
